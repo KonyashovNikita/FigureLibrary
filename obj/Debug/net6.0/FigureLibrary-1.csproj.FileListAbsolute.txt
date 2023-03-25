@@ -1,0 +1,15 @@
+/home/nikita/Documents/repos/c#/FigureLibrary-1/bin/Debug/net6.0/FigureLibrary-1
+/home/nikita/Documents/repos/c#/FigureLibrary-1/bin/Debug/net6.0/FigureLibrary-1.deps.json
+/home/nikita/Documents/repos/c#/FigureLibrary-1/bin/Debug/net6.0/FigureLibrary-1.runtimeconfig.json
+/home/nikita/Documents/repos/c#/FigureLibrary-1/bin/Debug/net6.0/FigureLibrary-1.dll
+/home/nikita/Documents/repos/c#/FigureLibrary-1/bin/Debug/net6.0/ref/FigureLibrary-1.dll
+/home/nikita/Documents/repos/c#/FigureLibrary-1/bin/Debug/net6.0/FigureLibrary-1.pdb
+/home/nikita/Documents/repos/c#/FigureLibrary-1/obj/Debug/net6.0/FigureLibrary-1.csproj.AssemblyReference.cache
+/home/nikita/Documents/repos/c#/FigureLibrary-1/obj/Debug/net6.0/FigureLibrary-1.GeneratedMSBuildEditorConfig.editorconfig
+/home/nikita/Documents/repos/c#/FigureLibrary-1/obj/Debug/net6.0/FigureLibrary-1.AssemblyInfoInputs.cache
+/home/nikita/Documents/repos/c#/FigureLibrary-1/obj/Debug/net6.0/FigureLibrary-1.AssemblyInfo.cs
+/home/nikita/Documents/repos/c#/FigureLibrary-1/obj/Debug/net6.0/FigureLibrary-1.csproj.CoreCompileInputs.cache
+/home/nikita/Documents/repos/c#/FigureLibrary-1/obj/Debug/net6.0/FigureLibrary-1.dll
+/home/nikita/Documents/repos/c#/FigureLibrary-1/obj/Debug/net6.0/ref/FigureLibrary-1.dll
+/home/nikita/Documents/repos/c#/FigureLibrary-1/obj/Debug/net6.0/FigureLibrary-1.pdb
+/home/nikita/Documents/repos/c#/FigureLibrary-1/obj/Debug/net6.0/FigureLibrary-1.genruntimeconfig.cache
